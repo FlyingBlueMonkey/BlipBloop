@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlipBloop": {
+      "commandName": "Project",
+      "commandLineArgs": "badsite-dontclickhere.com 80"
+    }
+  }
+}
